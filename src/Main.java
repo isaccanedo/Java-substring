@@ -1,9 +1,14 @@
 
 public class Main {
 	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
+	
 	/*
 	 *  Given the string "strawberries" saved in a variable called fruit, what would fruit.substring(2, 5) return?
-	 *  (Dada a string "strawberries" salva em uma vari·vel chamada fruit, o que fruit.substring (2, 5) retornaria?)
+	 *  (Dada a string "strawberries" salva em uma vari√°vel chamada fruit, o que fruit.substring (2, 5) retornaria?)
 	 *  
 	 *   1 - raw == correct
 	 *   2 - awb
